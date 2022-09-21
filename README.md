@@ -4,5 +4,5 @@
 Example: String= W, Integer= 4
 Output:
 W W W W
-W W W W
+W W W W 
 W W W W
